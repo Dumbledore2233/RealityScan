@@ -4,7 +4,7 @@
 
 ## 一键安装
 ```shell
-wget -O hy2.sh \
+wget -O rs.sh \
   https://raw.githubusercontent.com/Dumbledore2233/RealityScan/refs/heads/main/rs.sh \
   && sh rs.sh
 ```
